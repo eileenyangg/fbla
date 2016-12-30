@@ -1,10 +1,3 @@
-/*
-
-Template 2075 Digital Team
-
-http://www.tooplate.com/view/2075-digital-team
-
-*/
 
 body {
     background: #ffffff;
@@ -318,21 +311,21 @@ home section
 }
 
 /* ==========================================================================
-work section
+features section
 ========================================================================== */
-#work {
+#features {
     text-align: center;
 }
-#work .col-md-4 {
+#features .col-md-4 {
   padding: 28px;
   position: relative;
   transition: all 0.4s ease-in-out;
 }
-#work .col-md-4:hover {
+#features .col-md-4:hover {
   background-color: #ffffff;
   box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.20);
 }
-#work h3 {
+#features h3 {
   font-size: 18px;
 }
 
@@ -449,22 +442,22 @@ team section
 }
 
 /* ==========================================================================
-portfolio section
+gallery section
 ========================================================================== */
-#portfolio {
+#gallery {
   background-color: #f6f6f6;
   text-align: center;
   }
-#portfolio .container {
+#gallery .container {
   width: 100%;
   padding: 0;
   margin: 0;
 }
-#portfolio img {
+#gallery img {
   width: 100%;
   transition: all 0.4s ease-in-out;
 }
-#portfolio img:hover {
+#gallery img:hover {
   opacity: 0.5;
 }
 /* FILTER CSS */
@@ -531,33 +524,33 @@ portfolio section
 }
 
 /* ==========================================================================
-pricing section
+book party section
 ========================================================================== */
-#pricing {
+#book {
   text-align: center;
 }
-#pricing h2 {
+#book h2 {
   font-size: 52px;
 }
-#pricing h3 {
+#book h3 {
   font-size: 16px;
 }
-#pricing .plan {
+#book .plan {
   box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.20);
   padding-top: 40px;
   padding-bottom: 80px;
   margin-bottom: 32px;
 }
-#pricing .plan span {
+#book .plan span {
 	font-size: 16px;
 }
-#pricing .plan .plan_title {
+#book .plan .plan_title {
   font-weight: 300;
   letter-spacing: 2px;
   padding: 30px;
   margin-bottom: 20px;
 }
-#pricing .medium-icon {
+#book .medium-icon {
   box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.20);
   border-radius: 50%;
   font-size: 52px;
@@ -567,15 +560,15 @@ pricing section
   text-align: center;
   margin-bottom: 32px;
 }
-#pricing .plan ul {
+#book .plan ul {
   padding: 0px;
 }
-#pricing .plan ul li {
+#book .plan ul li {
   display: block;
   font-weight: 500;
   padding: 12px 0px;
 }
-#pricing .plan .btn {
+#book .plan .btn {
   border: none;
   border-radius: 0px;
   color: #ffffff;
@@ -586,16 +579,16 @@ pricing section
   margin-top: 20px;
   text-transform: uppercase;
 }
-#pricing .plan-one .btn {
+#book .plan-one .btn {
   background-color: #00c6d7;
 }
-#pricing .plan-two .btn {
+#book .plan-two .btn {
   background-color: #ffa400;
 }
-#pricing .plan-three .btn {
+#book .plan-three .btn {
   background-color: #009988;
 }
-#pricing .plan .btn:hover {
+#book .plan .btn:hover {
   background-color: #3B3B3B;
 }
 

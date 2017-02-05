@@ -60,9 +60,9 @@ hr {
   font-size: 32px !important;
 }
 
-#work,#about, #team, 
-#portfolio, #pricing, #contact {
-   padding-top: 130px;
+#features,#about, #team, 
+#gallery, #book, #contact {
+   padding-top: 120px;
   padding-bottom: 100px;
 }
 

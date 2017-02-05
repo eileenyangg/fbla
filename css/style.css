@@ -208,12 +208,12 @@ navigation section
     margin-bottom: 0;
 }
 .custom-navbar .navbar-brand  {
-  color: #00c6d7;
+  color: #000000;
   font-weight: 600;
   font-size: 24px;
 }
 .custom-navbar .navbar-brand .navbar-toggle {
-    background: #00c6d7;
+    background: #000000;
     padding: 4px 6px;
     font-size: 16px;
     color: #fff;
@@ -233,14 +233,14 @@ navigation section
   outline: none;
 }
 .custom-navbar .nav li.active > a {
-      color: #00c6d7;
+      color: #000000;
     }
 .custom-navbar .navbar-toggle {
         border: none;
         padding-top: 10px;
     }
 .custom-navbar .navbar-toggle .icon-bar {
-        background: #00c6d7;
+        background: #000000;
         border-color: transparent;
     }
 @media(min-width:768px){

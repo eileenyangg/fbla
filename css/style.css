@@ -1,6 +1,6 @@
 
 body {
-    background: #EDF7FE;
+    background: #ffffff;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     position: relative;
@@ -335,7 +335,7 @@ about section
 ========================================================================== */
 #about {
   background: #f6f6f6;
-  color: #ffffff;
+  color: #000000;
 }
 .nav-tabs {
   margin-top: 20px;
@@ -347,7 +347,7 @@ about section
 }
 .nav-tabs > li > a {
 	display: block;
-  	color: #ffffff;
+  	color: #000000;
   	font-size: 16px;
   	padding: 10px 20px;
   	border: 0;
@@ -400,7 +400,7 @@ team section
 #team .team-des {
   background-color: rgba(00,00,00,0.6);
   position: absolute;
-  color: #D3EBFF;
+  color: #EDF7FE;
   opacity: 0;
   max-width: 500px;
   width: 100%;

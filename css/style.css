@@ -571,7 +571,7 @@ book party section
 #book .plan .btn {
   border: none;
   border-radius: 0px;
-  color: #f6f6f6;
+  color: #FFE9FF;
   font-size: 16px;
   font-weight: bold;
   padding: 16px 60px;
@@ -580,16 +580,16 @@ book party section
   text-transform: uppercase;
 }
 #book .plan-one .btn {
-  background-color: #00c6d7;
+  background-color: #ABA0AB;
 }
 #book .plan-two .btn {
-  background-color: #ffa400;
+  background-color: #ABA0AB;
 }
 #book .plan-three .btn {
-  background-color: #009988;
+  background-color: #ABA0AB;
 }
 #book .plan .btn:hover {
-  background-color: #3B3B3B;
+  background-color: #EC5FEC;
 }
 
 

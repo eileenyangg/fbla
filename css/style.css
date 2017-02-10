@@ -204,7 +204,7 @@ preloader section
 navigation section
 ========================================================================== */
 .custom-navbar {
-    background: #7F4D9D;
+    background: #91C0DE;
     margin-bottom: 0;
 }
 .custom-navbar .navbar-brand  {
@@ -245,14 +245,14 @@ navigation section
     }
 @media(min-width:768px){
     .custom-navbar {
-            background: #7F4D9D;
+            background: #91C0DE;
             padding: 10px;
             border-bottom: 0;
             background: 0 0;
          }
     .custom-navbar.top-nav-collapse {
             padding: 8px;
-            background: #7F4D9D;
+            background: #91C0DE;
         }
 }
 
@@ -274,7 +274,7 @@ home section
   text-align: center;
 }
 #home h1 {
-  font-size: 40px;
+  font-size: 60px;
 }
 #home h3 {
   font-size: 14px;

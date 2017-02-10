@@ -1,6 +1,6 @@
 
 body {
-    background: #D3EBFF;
+    background: #EDF7FE;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     position: relative;
@@ -322,7 +322,7 @@ features section
   transition: all 0.4s ease-in-out;
 }
 #features .col-md-4:hover {
-  background-color: #D3EBFF;
+  background-color: #EDF7FE;
   box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.20);
 }
 #features h3 {
